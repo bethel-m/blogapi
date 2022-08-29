@@ -9,6 +9,8 @@ djangorestframework = "*"
 django-cors-headers = "*"
 dj-rest-auth = "*"
 django-allauth = "*"
+drf-spectacular = "*"
+environs = {extras = ["django"], version = "*"}
 
 [dev-packages]
 
