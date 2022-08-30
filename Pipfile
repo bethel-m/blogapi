@@ -11,6 +11,9 @@ dj-rest-auth = "*"
 django-allauth = "*"
 drf-spectacular = "*"
 environs = {extras = ["django"], version = "*"}
+whitenoise = "*"
+psycopg2 = "*"
+gunicorn = "*"
 
 [dev-packages]
 
